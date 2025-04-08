@@ -1,0 +1,6 @@
+2025-04-08 01:08:48.905719 - Received CBT.V508.FILE067.PDS from FILE067.XMI 
+2025-04-08 01:08:48.909025 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE067.PDS, moved to PDS/$$$#DATE
+2025-04-08 01:08:48.910665 - Found $DOC.txt (text/plain) in CBT.V508.FILE067.PDS, moved to PDS/$DOC
+2025-04-08 01:08:48.912109 - Found @FILE067.txt (text/plain) in CBT.V508.FILE067.PDS, moved to PDS/@FILE067
+2025-04-08 01:08:48.913636 - Found IEFDB401.txt (text/plain) in CBT.V508.FILE067.PDS, moved to PDS/IEFDB401
+2025-04-08 01:08:48.915264 - Found IEFUJV.txt (text/plain) in CBT.V508.FILE067.PDS, moved to PDS/IEFUJV
